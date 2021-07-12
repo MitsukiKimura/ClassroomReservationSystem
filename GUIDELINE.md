@@ -56,7 +56,7 @@ PRがMergeされた後はブランチを削除して、上流(upstream)からpul
    ```
 
 ## コミットメッセージの形式
-コミットメッセージは、Header、Body、Footerから構成する。
+コミットメッセージは、Header、Bodyから構成する。
 ```
 <Header>
 
